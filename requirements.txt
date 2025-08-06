@@ -1,0 +1,11 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+dotenv
+openai
+tiktoken
+autogen-ext[docker]
+autogen-ext[mcp]
+flask
+pyngrok
+flask_cors
