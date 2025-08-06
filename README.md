@@ -1,6 +1,6 @@
 ![alt text](image.png)
 
-# Notion MCP Integration with Lovable Frontend
+# Notion MCP Integration with Ngrok and Lovable Frontend
 
 This project demonstrates how to integrate [Notion MCP (Machine Communication Protocol)](https://developers.notion.com/docs/get-started-with-mcp) with a frontend UI built using [Lovable](https://lovable.dev/). It allows sending tasks to a Notion-integrated backend server and visualizing the interactions through a simple web interface.
 
@@ -10,6 +10,7 @@ This project demonstrates how to integrate [Notion MCP (Machine Communication Pr
 
 - **Notion MCP Docs:** [Get Started with MCP](https://developers.notion.com/docs/get-started-with-mcp)
 - **MCP Server GitHub Repo:** [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server?tab=readme-ov-file)
+- **NGROK:** https://dashboard.ngrok.com/get-started/your-authtoken
 
 ---
 
